@@ -1,7 +1,7 @@
 
 ---
 
-## 🚀 Yığın (Stack) Uygulama Detayları
+## Yığın (Stack) Uygulama Detayları
 
 - **Veri Yapıları**: 
   - Yığın (Stack) - LIFO (Last In, First Out)
